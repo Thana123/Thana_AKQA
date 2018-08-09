@@ -22,11 +22,11 @@ How the framework is built:
 
 		1) TestCasePack
 			 In this module there are couple of methods 
-			   1. AKQA Driver - driver script to control the test execution
+			   1. AKQADriver - driver script to control the test execution
 			   2. Test01_addtoWishList - test scripts where the test conditions are verified
 
 		2) Interfaces
-			In this module I have groped the methods that integrate with external interfaces such as properties file and browser starter
+			In this module I have grouped the methods that integrate with external interfaces such as properties file and browser starter
 			  1. Properties file - used to pass the parameters,here the environment URLs are passed along with path of Selenium driver
 
 		3) Pages
