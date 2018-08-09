@@ -12,7 +12,8 @@ About the Framework
     3. In the Product Detail page, click on the “Add to Wish List” button. In this framework I have created 5 modules to maintain the solution 
  
 How the framework is built:
-  	This framework built with five modules such as:
+
+	This framework built with five modules such as:
 	1) TestCasePack
 	2) Interfaces
 	3) Pages
