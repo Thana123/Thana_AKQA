@@ -1,0 +1,33 @@
+09/08/2018 11:39:11 TestCasePack.AddtoWishlist  ########################## Info Log is Started ########################## 
+09/08/2018 11:39:11 TestCasePack.AddtoWishlist Properties file is loaded to get : DriverPath
+09/08/2018 11:39:11 TestCasePack.AddtoWishlist Properties file is loaded to get : URL
+09/08/2018 11:39:11 TestCasePack.AddtoWishlist Properties file is loaded to get : wishlistURL
+09/08/2018 11:39:13 Interfaces.SeleniumChrome Driver is started the title is : 
+09/08/2018 11:39:24 BunningsAU.LandingPage Selected product title from landing page is : Paint Partner 270mm Paint Roller Cover - 3 Pack
+09/08/2018 11:39:24 TestCasePack.AddtoWishlist Step 1 : Visit Search Result page is Passed
+09/08/2018 11:39:24 TestCasePack.AddtoWishlist Step 2 : Randomly visit one product from the Search Result page is Passed
+09/08/2018 11:39:27 BunningsAU.ProductDetails Selected product title from Product detail page isPaint Partner 270mm Paint Roller Cover - 3 Pack
+09/08/2018 11:39:27 TestCasePack.AddtoWishlist Step 3 : redirect to a Product Detail page is Passed
+09/08/2018 11:39:33 BunningsAU.WishList Product name from Wishlist is :Paint Partner 270mm Paint Roller Cover - 3 Pack
+09/08/2018 11:39:33 TestCasePack.AddtoWishlist Step 4 : Product added to the wish list is Passed
+09/08/2018 11:54:23 TestCasePack.AKQADriver  ########################## Info Log is Started ########################## 
+09/08/2018 11:54:23 Interfaces.PropertiesFile Properties file is loaded to get : DriverPath
+09/08/2018 11:54:23 Interfaces.PropertiesFile Properties file is loaded to get : URL
+09/08/2018 11:54:23 Interfaces.PropertiesFile Properties file is loaded to get : wishlistURL
+09/08/2018 11:54:25 Interfaces.SeleniumChrome Driver is started the title is : 
+09/08/2018 11:54:39 BunningsAU.LandingPage Product title from landing page is : Monarch Wooden Paint Stirrer
+09/08/2018 11:54:39 TestCasePack.Test01_addtoWishList Step 1 : Visit Search Result page is Passed
+09/08/2018 11:54:39 TestCasePack.Test01_addtoWishList Step 2 : Randomly visit one product from the Search Result page is Passed
+09/08/2018 11:54:42 BunningsAU.ProductDetails Product title from Product detail page isMonarch Wooden Paint Stirrer
+09/08/2018 11:54:43 TestCasePack.Test01_addtoWishList Step 3 : redirect to a Product Detail page is Passed
+09/08/2018 11:54:49 BunningsAU.WishList Product title from Wishlist is :Monarch Wooden Paint Stirrer
+09/08/2018 11:54:49 TestCasePack.Test01_addtoWishList Step 4 : Product added to the wish list is Passed
+09/08/2018 19:55:08 TestCasePack.AKQADriver  ########################## Info Log is Started ########################## 
+09/08/2018 19:55:08 Interfaces.PropertiesFile Properties file is loaded to get : DriverPath
+09/08/2018 19:55:12 Interfaces.PropertiesFile Properties file is loaded to get : URL
+09/08/2018 19:55:12 Interfaces.PropertiesFile Properties file is loaded to get : wishlistURL
+09/08/2018 19:55:23 BunningsAU.LandingPage Product title from landing page is : Paint Partner 75mm Paint Brush
+09/08/2018 19:55:23 TestCasePack.Test01_addtoWishList Step 1 : Visit Search Result page is Passed
+09/08/2018 19:55:23 TestCasePack.Test01_addtoWishList Step 2 : Randomly visit one product from the Search Result page is Passed
+09/08/2018 19:55:26 BunningsAU.ProductDetails Product title from Product detail page isPaint Partner 75mm Paint Brush
+09/08/2018 19:55:26 TestCasePack.Test01_addtoWishList Step 3 : redirect to a Product Detail page is Passed
