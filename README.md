@@ -50,6 +50,7 @@ How to run?
 	 2) RAM - 4 GB
 	 3) Intel Core i5-3320M@2.6GB
 	 4) Java- JRE7
+	 5) Eclipse
 	 
 	External Libraries:
 	 1) Selenium - selenium-server-standalone-2.53.0.jar
