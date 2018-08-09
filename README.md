@@ -2,14 +2,16 @@
 
 About the Framework
 
-This framework has been created for AKQA interview purpose. 
+	This framework has been created for AKQA interview purpose. 
 
- Scenario : 
+	 Scenario : 
     1. Visit Search Result page with the search term “Paint”: https://www.bunnings.com.au/search/products?q=paint&redirectFrom=Any
+    
     2. Randomly visit one product from the Search Result page. This should redirect you to a Product Detail page.
-    3. In the Product Detail page, click on the “Add to Wish List” button. In this framework I have created 5 modules to maintain the solution :
+    
+    3. In the Product Detail page, click on the “Add to Wish List” button. In this framework I have created 5 modules to maintain the solution 
  
-	How the framework is built:
+How the framework is built:
   	This framework built with five modules such as:
 	1) TestCasePack
 	2) Interfaces
