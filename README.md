@@ -2,7 +2,7 @@
 
 About the Framework
 
-	This framework has been created for AKQA interview purpose. 
+	This framework is for basic and simple Datadriven approach 
 
 	 Scenario : 
     1. Visit Search Result page with the search term “Paint”: https://www.bunnings.com.au/search/products?q=paint&redirectFrom=Any
