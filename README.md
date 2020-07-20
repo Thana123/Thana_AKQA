@@ -1,4 +1,4 @@
-# Thana_AKQA
+# Thana
 
 About the Framework
 
